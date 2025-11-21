@@ -812,7 +812,7 @@ function Library.Main(text : string)
                         Position = UDim2.new(1,-30,0,7);
                         BorderSizePixel = 0;
                         BackgroundTransparency = 1;
-                        Image = "rbxassetid://3926305904";
+                        Image = "rbxassetid://128843677717421";
                         ImageRectOffset = Vector2.new(44, 404);
                         ImageRectSize = Vector2.new(36, 36);
                         Rotation = 90;
