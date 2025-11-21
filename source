@@ -10,7 +10,7 @@ getgenv().LibTheme = {
     HideKey = "LeftAlt"
 }
 
-local Library = loadstring(game:HttpGet("https://github.com/slf0Dev/Ocerium_Project/raw/main/Ocerium%20Special%20ui"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/muradholmatov307-dev/CerberusAntiKick/refs/heads/main/source2"))()
 
 local Main = Library.Main("Ocerium")
 
